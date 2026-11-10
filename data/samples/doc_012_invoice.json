@@ -1,0 +1,33 @@
+{
+  "invoice_number": "R973821",
+  "date": "2023-06-02",
+  "vendor": "Quantum Parts Inc",
+  "currency": "USD",
+  "subtotal": 1996.96,
+  "tax": 199.7,
+  "total": 2196.66,
+  "line_items": [
+    {
+      "description": "Printer toner black",
+      "quantity": 2.0,
+      "unit_price": 3.48,
+      "amount": 6.96
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 5.0,
+      "unit_price": 398.0,
+      "amount": 1990.0
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -2.21,
+      "blur": 0,
+      "noise": 22,
+      "scale": 1.0,
+      "jpeg": 70
+    }
+  }
+}

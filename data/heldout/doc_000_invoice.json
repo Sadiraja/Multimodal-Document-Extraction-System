@@ -1,0 +1,51 @@
+{
+  "invoice_number": "INV-2024-6183",
+  "date": "2024-06-25",
+  "vendor": "Lakeside Pharmacy",
+  "currency": "USD",
+  "subtotal": 3178.19,
+  "tax": 158.91,
+  "total": 3337.1,
+  "line_items": [
+    {
+      "description": "Hand soap 5L",
+      "quantity": 4.0,
+      "unit_price": 64.39,
+      "amount": 257.56
+    },
+    {
+      "description": "Hex bolt M8 box",
+      "quantity": 9.0,
+      "unit_price": 270.08,
+      "amount": 2430.72
+    },
+    {
+      "description": "Paint brush set",
+      "quantity": 4.0,
+      "unit_price": 11.41,
+      "amount": 45.64
+    },
+    {
+      "description": "Consulting hour",
+      "quantity": 6.0,
+      "unit_price": 20.82,
+      "amount": 124.92
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 3.0,
+      "unit_price": 106.45,
+      "amount": 319.35
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -0.69,
+      "blur": 1.5,
+      "noise": 0,
+      "scale": 0.55,
+      "jpeg": 45
+    }
+  }
+}

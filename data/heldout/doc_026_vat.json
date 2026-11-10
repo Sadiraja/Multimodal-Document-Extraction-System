@@ -1,0 +1,45 @@
+{
+  "invoice_number": "SI-2023-8692",
+  "date": "2024-10-25",
+  "vendor": "Acme Industrial Supply",
+  "currency": "GBP",
+  "subtotal": 5240.34,
+  "tax": 1048.07,
+  "total": 6288.41,
+  "line_items": [
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 8.0,
+      "unit_price": 3.96,
+      "amount": 31.68
+    },
+    {
+      "description": "LED desk lamp",
+      "quantity": 4.0,
+      "unit_price": 206.97,
+      "amount": 827.88
+    },
+    {
+      "description": "Copper pipe 15mm",
+      "quantity": 6.0,
+      "unit_price": 346.94,
+      "amount": 2081.64
+    },
+    {
+      "description": "Monitor stand",
+      "quantity": 6.0,
+      "unit_price": 383.19,
+      "amount": 2299.14
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": -2.05,
+      "blur": 0,
+      "noise": 0,
+      "scale": 0.55,
+      "jpeg": 45
+    }
+  }
+}

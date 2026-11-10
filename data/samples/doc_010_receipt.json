@@ -1,0 +1,33 @@
+{
+  "invoice_number": "R929114",
+  "date": "2023-09-11",
+  "vendor": "Orion Electronics",
+  "currency": "USD",
+  "subtotal": 3318.22,
+  "tax": 663.64,
+  "total": 3981.86,
+  "line_items": [
+    {
+      "description": "Wireless mouse",
+      "quantity": 10.0,
+      "unit_price": 24.37,
+      "amount": 243.7
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 12.0,
+      "unit_price": 256.21,
+      "amount": 3074.52
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": -1.89,
+      "blur": 1.0,
+      "noise": 12,
+      "scale": 1.0,
+      "jpeg": 45
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "invoice_number": "INV50871",
+  "date": "2023-02-14",
+  "vendor": "Greenleaf Organics",
+  "currency": "USD",
+  "subtotal": 830.67,
+  "tax": 41.53,
+  "total": 872.2,
+  "line_items": [
+    {
+      "description": "Hex bolt M8 box",
+      "quantity": 7.0,
+      "unit_price": 11.75,
+      "amount": 82.25
+    },
+    {
+      "description": "Printer toner black",
+      "quantity": 12.0,
+      "unit_price": 6.09,
+      "amount": 73.08
+    },
+    {
+      "description": "Shipping surcharge",
+      "quantity": 9.0,
+      "unit_price": 11.6,
+      "amount": 104.4
+    },
+    {
+      "description": "Cloud storage plan",
+      "quantity": 2.0,
+      "unit_price": 4.47,
+      "amount": 8.94
+    },
+    {
+      "description": "Copper pipe 15mm",
+      "quantity": 4.0,
+      "unit_price": 140.5,
+      "amount": 562.0
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 1.27,
+      "blur": 0,
+      "noise": 22,
+      "scale": 0.7,
+      "jpeg": 70
+    }
+  }
+}

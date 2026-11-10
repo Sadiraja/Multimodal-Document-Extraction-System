@@ -1,0 +1,45 @@
+{
+  "invoice_number": "R714807",
+  "date": "2024-04-01",
+  "vendor": "Sunrise Bakery",
+  "currency": "USD",
+  "subtotal": 581.37,
+  "tax": 46.51,
+  "total": 627.88,
+  "line_items": [
+    {
+      "description": "USB-C cable 2m",
+      "quantity": 2.0,
+      "unit_price": 179.31,
+      "amount": 358.62
+    },
+    {
+      "description": "Paint brush set",
+      "quantity": 5.0,
+      "unit_price": 16.11,
+      "amount": 80.55
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 2.0,
+      "unit_price": 24.28,
+      "amount": 48.56
+    },
+    {
+      "description": "Cleaning service",
+      "quantity": 4.0,
+      "unit_price": 23.41,
+      "amount": 93.64
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": -2.42,
+      "blur": 1.5,
+      "noise": 6,
+      "scale": 0.55,
+      "jpeg": 95
+    }
+  }
+}

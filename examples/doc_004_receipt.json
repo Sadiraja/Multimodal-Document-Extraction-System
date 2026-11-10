@@ -1,0 +1,74 @@
+{
+  "invoice_number": {
+    "value": "IMv372039",
+    "confidence": 0.0,
+    "needs_review": true,
+    "reasons": []
+  },
+  "date": {
+    "value": "2023-03-10",
+    "confidence": 0.95,
+    "needs_review": false,
+    "reasons": []
+  },
+  "vendor": {
+    "value": "SUNRISE BAKERY",
+    "confidence": 0.955,
+    "needs_review": false,
+    "reasons": []
+  },
+  "currency": {
+    "value": "USD",
+    "confidence": 0.88,
+    "needs_review": false,
+    "reasons": []
+  },
+  "subtotal": {
+    "value": 2265.34,
+    "confidence": 0.232,
+    "needs_review": true,
+    "reasons": [
+      "arithmetic mismatch: 2265.34 + 169.93 != 2436.32",
+      "line items sum to 2266.34"
+    ]
+  },
+  "tax": {
+    "value": 169.93,
+    "confidence": 0.57,
+    "needs_review": true,
+    "reasons": [
+      "arithmetic mismatch: 2265.34 + 169.93 != 2436.32"
+    ]
+  },
+  "total": {
+    "value": 2436.32,
+    "confidence": 0.573,
+    "needs_review": true,
+    "reasons": [
+      "arithmetic mismatch: 2265.34 + 169.93 != 2436.32"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "Wireless rouse",
+      "quantity": 11.0,
+      "unit_price": 203.53,
+      "amount": 2238.83,
+      "confidence": 0.92
+    },
+    {
+      "description": "Data backup fee",
+      "quantity": 7.0,
+      "unit_price": 3.93,
+      "amount": 27.51,
+      "confidence": 0.92
+    }
+  ],
+  "line_items_needs_review": true,
+  "line_items_reasons": [
+    "line items sum to 2266.34 but subtotal is 2265.34"
+  ],
+  "needs_review": true,
+  "source_file": "doc_004_receipt.jpg",
+  "extractor": "rules"
+}

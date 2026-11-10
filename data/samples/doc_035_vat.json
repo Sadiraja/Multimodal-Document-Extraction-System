@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2023-3447",
+  "date": "2023-01-02",
+  "vendor": "Maple Street Printing",
+  "currency": "GBP",
+  "subtotal": 4225.29,
+  "tax": 845.06,
+  "total": 5070.35,
+  "line_items": [
+    {
+      "description": "Wireless mouse",
+      "quantity": 3.0,
+      "unit_price": 460.88,
+      "amount": 1382.64
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 9.0,
+      "unit_price": 315.85,
+      "amount": 2842.65
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": 0.06,
+      "blur": 0,
+      "noise": 6,
+      "scale": 0.55,
+      "jpeg": 95
+    }
+  }
+}

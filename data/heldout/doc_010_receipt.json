@@ -1,0 +1,51 @@
+{
+  "invoice_number": "74247",
+  "date": "2023-07-04",
+  "vendor": "Orion Electronics",
+  "currency": "USD",
+  "subtotal": 4719.98,
+  "tax": 354.0,
+  "total": 5073.98,
+  "line_items": [
+    {
+      "description": "Cleaning service",
+      "quantity": 12.0,
+      "unit_price": 372.48,
+      "amount": 4469.76
+    },
+    {
+      "description": "Paint brush set",
+      "quantity": 12.0,
+      "unit_price": 10.89,
+      "amount": 130.68
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 3.0,
+      "unit_price": 13.82,
+      "amount": 41.46
+    },
+    {
+      "description": "Organic apples 2kg",
+      "quantity": 4.0,
+      "unit_price": 16.72,
+      "amount": 66.88
+    },
+    {
+      "description": "A4 paper ream",
+      "quantity": 7.0,
+      "unit_price": 1.6,
+      "amount": 11.2
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 2.16,
+      "blur": 0,
+      "noise": 22,
+      "scale": 0.55,
+      "jpeg": 95
+    }
+  }
+}

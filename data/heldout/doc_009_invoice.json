@@ -1,0 +1,39 @@
+{
+  "invoice_number": "INV-2024-5845",
+  "date": "2023-05-16",
+  "vendor": "Maple Street Printing",
+  "currency": "USD",
+  "subtotal": 2858.91,
+  "tax": 214.42,
+  "total": 3073.33,
+  "line_items": [
+    {
+      "description": "Label stickers roll",
+      "quantity": 10.0,
+      "unit_price": 22.04,
+      "amount": 220.4
+    },
+    {
+      "description": "Wireless mouse",
+      "quantity": 3.0,
+      "unit_price": 194.77,
+      "amount": 584.31
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 10.0,
+      "unit_price": 205.42,
+      "amount": 2054.2
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -0.73,
+      "blur": 1.5,
+      "noise": 12,
+      "scale": 0.7,
+      "jpeg": 45
+    }
+  }
+}

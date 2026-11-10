@@ -1,0 +1,39 @@
+{
+  "mode": "rules",
+  "threshold": 0.85,
+  "n_documents": 36,
+  "field_accuracy": {
+    "invoice_number": 0.7777777777777778,
+    "date": 0.8333333333333334,
+    "vendor": 0.9444444444444444,
+    "currency": 0.9722222222222222,
+    "subtotal": 0.8611111111111112,
+    "tax": 0.8333333333333334,
+    "total": 0.9722222222222222
+  },
+  "scalar_macro_accuracy": 0.884920634920635,
+  "scalar_micro_accuracy": 0.8849206349206349,
+  "line_items": {
+    "precision": 0.9649122807017544,
+    "recall": 0.873015873015873,
+    "f1": 0.9166666666666667,
+    "gt_items": 126,
+    "pred_items": 114
+  },
+  "layout_accuracy": {
+    "invoice": 0.9166666666666666,
+    "receipt": 0.7976190476190477,
+    "vat": 0.9404761904761905
+  },
+  "documents_fully_correct": 0.7777777777777778,
+  "review": {
+    "docs_flagged_pct": 0.4444444444444444,
+    "fields_flagged_pct": 0.1746031746031746,
+    "error_recall": 0.9655172413793104,
+    "flag_precision": 0.6363636363636364,
+    "accuracy_unflagged_fields": 0.9951923076923077,
+    "accuracy_unflagged_docs": 1.0,
+    "wrong_fields": 29,
+    "wrong_and_flagged": 28
+  }
+}

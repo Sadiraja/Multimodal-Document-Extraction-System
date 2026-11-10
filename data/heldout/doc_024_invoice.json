@@ -1,0 +1,51 @@
+{
+  "invoice_number": "734672",
+  "date": "2024-08-05",
+  "vendor": "Blue Harbor Logistics",
+  "currency": "USD",
+  "subtotal": 4950.97,
+  "tax": 495.1,
+  "total": 5446.07,
+  "line_items": [
+    {
+      "description": "Consulting hour",
+      "quantity": 2.0,
+      "unit_price": 5.84,
+      "amount": 11.68
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 11.0,
+      "unit_price": 122.95,
+      "amount": 1352.45
+    },
+    {
+      "description": "Whiteboard markers",
+      "quantity": 8.0,
+      "unit_price": 9.47,
+      "amount": 75.76
+    },
+    {
+      "description": "Safety gloves pair",
+      "quantity": 11.0,
+      "unit_price": 314.82,
+      "amount": 3463.02
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 6.0,
+      "unit_price": 8.01,
+      "amount": 48.06
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": 0.93,
+      "blur": 1.0,
+      "noise": 12,
+      "scale": 0.55,
+      "jpeg": 45
+    }
+  }
+}

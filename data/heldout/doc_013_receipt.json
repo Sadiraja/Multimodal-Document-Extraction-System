@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2023-8111",
+  "date": "2023-09-20",
+  "vendor": "Pinecrest Hardware",
+  "currency": "USD",
+  "subtotal": 172.22,
+  "tax": 34.44,
+  "total": 206.66,
+  "line_items": [
+    {
+      "description": "Shipping surcharge",
+      "quantity": 7.0,
+      "unit_price": 7.26,
+      "amount": 50.82
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 1.0,
+      "unit_price": 121.4,
+      "amount": 121.4
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 0.29,
+      "blur": 1.0,
+      "noise": 12,
+      "scale": 0.7,
+      "jpeg": 45
+    }
+  }
+}

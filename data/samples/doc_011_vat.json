@@ -1,0 +1,45 @@
+{
+  "invoice_number": "SI-2023-6842",
+  "date": "2023-12-14",
+  "vendor": "Redwood Consulting",
+  "currency": "GBP",
+  "subtotal": 5328.88,
+  "tax": 1065.78,
+  "total": 6394.66,
+  "line_items": [
+    {
+      "description": "Printer toner black",
+      "quantity": 11.0,
+      "unit_price": 17.02,
+      "amount": 187.22
+    },
+    {
+      "description": "Data backup fee",
+      "quantity": 8.0,
+      "unit_price": 458.39,
+      "amount": 3667.12
+    },
+    {
+      "description": "A4 paper ream",
+      "quantity": 8.0,
+      "unit_price": 5.33,
+      "amount": 42.64
+    },
+    {
+      "description": "Whiteboard markers",
+      "quantity": 3.0,
+      "unit_price": 477.3,
+      "amount": 1431.9
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": -0.81,
+      "blur": 1.0,
+      "noise": 22,
+      "scale": 1.0,
+      "jpeg": 70
+    }
+  }
+}

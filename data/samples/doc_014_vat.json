@@ -1,0 +1,51 @@
+{
+  "invoice_number": "637864",
+  "date": "2024-06-02",
+  "vendor": "Summit Office Products",
+  "currency": "GBP",
+  "subtotal": 3423.72,
+  "tax": 684.74,
+  "total": 4108.46,
+  "line_items": [
+    {
+      "description": "Notebook pack of 5",
+      "quantity": 5.0,
+      "unit_price": 472.01,
+      "amount": 2360.05
+    },
+    {
+      "description": "Cloud storage plan",
+      "quantity": 4.0,
+      "unit_price": 21.06,
+      "amount": 84.24
+    },
+    {
+      "description": "Organic apples 2kg",
+      "quantity": 7.0,
+      "unit_price": 24.75,
+      "amount": 173.25
+    },
+    {
+      "description": "Hand soap 5L",
+      "quantity": 1.0,
+      "unit_price": 362.1,
+      "amount": 362.1
+    },
+    {
+      "description": "Sourdough loaf",
+      "quantity": 7.0,
+      "unit_price": 63.44,
+      "amount": 444.08
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": -1.57,
+      "blur": 0.6,
+      "noise": 22,
+      "scale": 1.0,
+      "jpeg": 70
+    }
+  }
+}

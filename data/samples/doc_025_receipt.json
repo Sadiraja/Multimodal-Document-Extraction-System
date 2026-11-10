@@ -1,0 +1,51 @@
+{
+  "invoice_number": "INV349014",
+  "date": "2024-04-02",
+  "vendor": "Cobalt Cloud Services",
+  "currency": "USD",
+  "subtotal": 2423.79,
+  "tax": 484.76,
+  "total": 2908.55,
+  "line_items": [
+    {
+      "description": "Ceramic mug",
+      "quantity": 6.0,
+      "unit_price": 24.65,
+      "amount": 147.9
+    },
+    {
+      "description": "LED desk lamp",
+      "quantity": 1.0,
+      "unit_price": 61.75,
+      "amount": 61.75
+    },
+    {
+      "description": "Notebook pack of 5",
+      "quantity": 2.0,
+      "unit_price": 370.26,
+      "amount": 740.52
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 6.0,
+      "unit_price": 165.46,
+      "amount": 992.76
+    },
+    {
+      "description": "Hand soap 5L",
+      "quantity": 2.0,
+      "unit_price": 240.43,
+      "amount": 480.86
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 0.63,
+      "blur": 1.0,
+      "noise": 0,
+      "scale": 0.55,
+      "jpeg": 95
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice_number": "563913",
+  "date": "2024-10-03",
+  "vendor": "Harvest Moon Farms",
+  "currency": "USD",
+  "subtotal": 5119.24,
+  "tax": 383.94,
+  "total": 5503.18,
+  "line_items": [
+    {
+      "description": "Sourdough loaf",
+      "quantity": 12.0,
+      "unit_price": 410.16,
+      "amount": 4921.92
+    },
+    {
+      "description": "Notebook pack of 5",
+      "quantity": 2.0,
+      "unit_price": 14.46,
+      "amount": 28.92
+    },
+    {
+      "description": "Printer toner black",
+      "quantity": 4.0,
+      "unit_price": 42.1,
+      "amount": 168.4
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 2.22,
+      "blur": 0,
+      "noise": 22,
+      "scale": 0.7,
+      "jpeg": 95
+    }
+  }
+}

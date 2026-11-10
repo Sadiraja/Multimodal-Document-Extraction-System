@@ -1,0 +1,39 @@
+{
+  "invoice_number": "INV-2023-5625",
+  "date": "2024-01-28",
+  "vendor": "Silverline Travel",
+  "currency": "GBP",
+  "subtotal": 1592.7,
+  "tax": 318.54,
+  "total": 1911.24,
+  "line_items": [
+    {
+      "description": "USB-C cable 2m",
+      "quantity": 5.0,
+      "unit_price": 71.62,
+      "amount": 358.1
+    },
+    {
+      "description": "Ceramic mug",
+      "quantity": 10.0,
+      "unit_price": 121.75,
+      "amount": 1217.5
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 9.0,
+      "unit_price": 1.9,
+      "amount": 17.1
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": 0.05,
+      "blur": 0,
+      "noise": 0,
+      "scale": 0.7,
+      "jpeg": 70
+    }
+  }
+}

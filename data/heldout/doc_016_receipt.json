@@ -1,0 +1,39 @@
+{
+  "invoice_number": "R275247",
+  "date": "2023-09-16",
+  "vendor": "Sunrise Bakery",
+  "currency": "USD",
+  "subtotal": 4521.36,
+  "tax": 452.14,
+  "total": 4973.5,
+  "line_items": [
+    {
+      "description": "Data backup fee",
+      "quantity": 2.0,
+      "unit_price": 2.33,
+      "amount": 4.66
+    },
+    {
+      "description": "Cleaning service",
+      "quantity": 5.0,
+      "unit_price": 83.44,
+      "amount": 417.2
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 10.0,
+      "unit_price": 409.95,
+      "amount": 4099.5
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 0.05,
+      "blur": 1.5,
+      "noise": 6,
+      "scale": 0.7,
+      "jpeg": 45
+    }
+  }
+}

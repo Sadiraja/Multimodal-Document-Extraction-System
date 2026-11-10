@@ -1,0 +1,57 @@
+{
+  "invoice_number": "R469646",
+  "date": "2024-04-02",
+  "vendor": "Sunrise Bakery",
+  "currency": "GBP",
+  "subtotal": 6074.78,
+  "tax": 1214.96,
+  "total": 7289.74,
+  "line_items": [
+    {
+      "description": "Hex bolt M8 box",
+      "quantity": 7.0,
+      "unit_price": 96.2,
+      "amount": 673.4
+    },
+    {
+      "description": "Cloud storage plan",
+      "quantity": 2.0,
+      "unit_price": 5.01,
+      "amount": 10.02
+    },
+    {
+      "description": "Consulting hour",
+      "quantity": 1.0,
+      "unit_price": 22.27,
+      "amount": 22.27
+    },
+    {
+      "description": "Label stickers roll",
+      "quantity": 11.0,
+      "unit_price": 78.57,
+      "amount": 864.27
+    },
+    {
+      "description": "Data backup fee",
+      "quantity": 9.0,
+      "unit_price": 379.03,
+      "amount": 3411.27
+    },
+    {
+      "description": "Ceramic mug",
+      "quantity": 5.0,
+      "unit_price": 218.71,
+      "amount": 1093.55
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": 2.43,
+      "blur": 1.0,
+      "noise": 6,
+      "scale": 0.55,
+      "jpeg": 45
+    }
+  }
+}

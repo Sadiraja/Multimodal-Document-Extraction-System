@@ -1,0 +1,45 @@
+{
+  "invoice_number": "R489872",
+  "date": "2023-05-09",
+  "vendor": "Maple Street Printing",
+  "currency": "USD",
+  "subtotal": 6977.9,
+  "tax": 523.34,
+  "total": 7501.24,
+  "line_items": [
+    {
+      "description": "Data backup fee",
+      "quantity": 2.0,
+      "unit_price": 1.85,
+      "amount": 3.7
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 8.0,
+      "unit_price": 263.72,
+      "amount": 2109.76
+    },
+    {
+      "description": "Organic apples 2kg",
+      "quantity": 8.0,
+      "unit_price": 16.43,
+      "amount": 131.44
+    },
+    {
+      "description": "Ceramic mug",
+      "quantity": 10.0,
+      "unit_price": 473.3,
+      "amount": 4733.0
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": 0.63,
+      "blur": 0,
+      "noise": 22,
+      "scale": 0.7,
+      "jpeg": 70
+    }
+  }
+}

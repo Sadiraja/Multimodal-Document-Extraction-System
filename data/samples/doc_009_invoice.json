@@ -1,0 +1,33 @@
+{
+  "invoice_number": "725476",
+  "date": "2023-03-05",
+  "vendor": "Quantum Parts Inc",
+  "currency": "USD",
+  "subtotal": 61.89,
+  "tax": 12.38,
+  "total": 74.27,
+  "line_items": [
+    {
+      "description": "Wireless mouse",
+      "quantity": 3.0,
+      "unit_price": 15.8,
+      "amount": 47.4
+    },
+    {
+      "description": "Data backup fee",
+      "quantity": 3.0,
+      "unit_price": 4.83,
+      "amount": 14.49
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -2.22,
+      "blur": 0,
+      "noise": 12,
+      "scale": 1.0,
+      "jpeg": 95
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "invoice_number": "INV307980",
+  "date": "2024-05-21",
+  "vendor": "Atlas Freight Group",
+  "currency": "USD",
+  "subtotal": 5422.26,
+  "tax": 433.78,
+  "total": 5856.04,
+  "line_items": [
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 3.0,
+      "unit_price": 198.64,
+      "amount": 595.92
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 5.0,
+      "unit_price": 13.31,
+      "amount": 66.55
+    },
+    {
+      "description": "Ceramic mug",
+      "quantity": 2.0,
+      "unit_price": 65.84,
+      "amount": 131.68
+    },
+    {
+      "description": "LED desk lamp",
+      "quantity": 10.0,
+      "unit_price": 35.23,
+      "amount": 352.3
+    },
+    {
+      "description": "Hex bolt M8 box",
+      "quantity": 11.0,
+      "unit_price": 6.97,
+      "amount": 76.67
+    },
+    {
+      "description": "Shipping surcharge",
+      "quantity": 11.0,
+      "unit_price": 381.74,
+      "amount": 4199.14
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": 1.26,
+      "blur": 1.5,
+      "noise": 0,
+      "scale": 0.85,
+      "jpeg": 95
+    }
+  }
+}

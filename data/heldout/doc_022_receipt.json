@@ -1,0 +1,39 @@
+{
+  "invoice_number": "R328055",
+  "date": "2023-09-24",
+  "vendor": "Silverline Travel",
+  "currency": "USD",
+  "subtotal": 4000.47,
+  "tax": 400.05,
+  "total": 4400.52,
+  "line_items": [
+    {
+      "description": "Whiteboard markers",
+      "quantity": 10.0,
+      "unit_price": 20.85,
+      "amount": 208.5
+    },
+    {
+      "description": "Ceramic mug",
+      "quantity": 11.0,
+      "unit_price": 11.25,
+      "amount": 123.75
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 9.0,
+      "unit_price": 407.58,
+      "amount": 3668.22
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 1.01,
+      "blur": 0,
+      "noise": 6,
+      "scale": 1.0,
+      "jpeg": 95
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice_number": "INV-2023-6038",
+  "date": "2023-07-25",
+  "vendor": "Northwind Traders",
+  "currency": "GBP",
+  "subtotal": 9360.46,
+  "tax": 1872.09,
+  "total": 11232.55,
+  "line_items": [
+    {
+      "description": "Copper pipe 15mm",
+      "quantity": 11.0,
+      "unit_price": 475.66,
+      "amount": 5232.26
+    },
+    {
+      "description": "Sourdough loaf",
+      "quantity": 4.0,
+      "unit_price": 412.41,
+      "amount": 1649.64
+    },
+    {
+      "description": "LED desk lamp",
+      "quantity": 8.0,
+      "unit_price": 309.82,
+      "amount": 2478.56
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": -0.42,
+      "blur": 0.6,
+      "noise": 12,
+      "scale": 0.85,
+      "jpeg": 95
+    }
+  }
+}

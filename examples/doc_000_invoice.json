@@ -1,0 +1,79 @@
+{
+  "invoice_number": {
+    "value": "SI-2023-4622",
+    "confidence": 0.81,
+    "needs_review": true,
+    "reasons": []
+  },
+  "date": {
+    "value": "2024-08-22",
+    "confidence": 0.96,
+    "needs_review": false,
+    "reasons": []
+  },
+  "vendor": {
+    "value": "Brightwater Coffee Co",
+    "confidence": 0.96,
+    "needs_review": false,
+    "reasons": []
+  },
+  "currency": {
+    "value": "USD",
+    "confidence": 0.88,
+    "needs_review": false,
+    "reasons": []
+  },
+  "subtotal": {
+    "value": 677.01,
+    "confidence": 0.955,
+    "needs_review": false,
+    "reasons": []
+  },
+  "tax": {
+    "value": 135.4,
+    "confidence": 0.955,
+    "needs_review": false,
+    "reasons": []
+  },
+  "total": {
+    "value": 812.41,
+    "confidence": 0.95,
+    "needs_review": false,
+    "reasons": []
+  },
+  "line_items": [
+    {
+      "description": "A4 paper ream",
+      "quantity": 2.0,
+      "unit_price": 20.8,
+      "amount": 41.6,
+      "confidence": 0.947
+    },
+    {
+      "description": "Hand soap 5L",
+      "quantity": 9.0,
+      "unit_price": 64.11,
+      "amount": 576.99,
+      "confidence": 0.938
+    },
+    {
+      "description": "Monitor stand",
+      "quantity": 2.0,
+      "unit_price": 7.16,
+      "amount": 14.32,
+      "confidence": 0.962
+    },
+    {
+      "description": "Ceramic mug",
+      "quantity": 10.0,
+      "unit_price": 4.41,
+      "amount": 44.1,
+      "confidence": 0.956
+    }
+  ],
+  "line_items_needs_review": false,
+  "line_items_reasons": [],
+  "needs_review": true,
+  "source_file": "doc_000_invoice.jpg",
+  "extractor": "rules"
+}

@@ -1,0 +1,45 @@
+{
+  "invoice_number": "202054",
+  "date": "2024-03-16",
+  "vendor": "Blue Harbor Logistics",
+  "currency": "USD",
+  "subtotal": 2589.28,
+  "tax": 129.46,
+  "total": 2718.74,
+  "line_items": [
+    {
+      "description": "Wireless mouse",
+      "quantity": 10.0,
+      "unit_price": 3.5,
+      "amount": 35.0
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 11.0,
+      "unit_price": 211.56,
+      "amount": 2327.16
+    },
+    {
+      "description": "Cloud storage plan",
+      "quantity": 11.0,
+      "unit_price": 16.96,
+      "amount": 186.56
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 2.0,
+      "unit_price": 20.28,
+      "amount": 40.56
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": 1.71,
+      "blur": 1.0,
+      "noise": 22,
+      "scale": 1.0,
+      "jpeg": 95
+    }
+  }
+}

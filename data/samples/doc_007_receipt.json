@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2023-3785",
+  "date": "2024-02-16",
+  "vendor": "Blue Harbor Logistics",
+  "currency": "USD",
+  "subtotal": 1359.12,
+  "tax": 135.91,
+  "total": 1495.03,
+  "line_items": [
+    {
+      "description": "Hand soap 5L",
+      "quantity": 4.0,
+      "unit_price": 106.23,
+      "amount": 424.92
+    },
+    {
+      "description": "Whiteboard markers",
+      "quantity": 2.0,
+      "unit_price": 467.1,
+      "amount": 934.2
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": -1.77,
+      "blur": 1.5,
+      "noise": 22,
+      "scale": 0.7,
+      "jpeg": 95
+    }
+  }
+}

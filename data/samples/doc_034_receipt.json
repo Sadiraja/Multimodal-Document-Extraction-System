@@ -1,0 +1,39 @@
+{
+  "invoice_number": "INV-2024-8422",
+  "date": "2024-06-27",
+  "vendor": "Bluebird Stationery",
+  "currency": "USD",
+  "subtotal": 3168.7,
+  "tax": 158.44,
+  "total": 3327.14,
+  "line_items": [
+    {
+      "description": "Label stickers roll",
+      "quantity": 9.0,
+      "unit_price": 7.08,
+      "amount": 63.72
+    },
+    {
+      "description": "Cleaning service",
+      "quantity": 3.0,
+      "unit_price": 314.64,
+      "amount": 943.92
+    },
+    {
+      "description": "Paint brush set",
+      "quantity": 11.0,
+      "unit_price": 196.46,
+      "amount": 2161.06
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 0.65,
+      "blur": 1.0,
+      "noise": 12,
+      "scale": 0.7,
+      "jpeg": 70
+    }
+  }
+}

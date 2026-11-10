@@ -1,0 +1,39 @@
+{
+  "invoice_number": "210977",
+  "date": "2023-09-05",
+  "vendor": "Pinecrest Hardware",
+  "currency": "GBP",
+  "subtotal": 254.16,
+  "tax": 50.83,
+  "total": 304.99,
+  "line_items": [
+    {
+      "description": "Label stickers roll",
+      "quantity": 12.0,
+      "unit_price": 19.96,
+      "amount": 239.52
+    },
+    {
+      "description": "Copper pipe 15mm",
+      "quantity": 1.0,
+      "unit_price": 11.42,
+      "amount": 11.42
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 2.0,
+      "unit_price": 1.61,
+      "amount": 3.22
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": -0.95,
+      "blur": 1.5,
+      "noise": 6,
+      "scale": 1.0,
+      "jpeg": 45
+    }
+  }
+}

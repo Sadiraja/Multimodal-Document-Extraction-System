@@ -1,0 +1,45 @@
+{
+  "invoice_number": "418145",
+  "date": "2023-06-13",
+  "vendor": "Blue Harbor Logistics",
+  "currency": "USD",
+  "subtotal": 1812.66,
+  "tax": 90.63,
+  "total": 1903.29,
+  "line_items": [
+    {
+      "description": "Data backup fee",
+      "quantity": 4.0,
+      "unit_price": 3.78,
+      "amount": 15.12
+    },
+    {
+      "description": "Label stickers roll",
+      "quantity": 7.0,
+      "unit_price": 2.96,
+      "amount": 20.72
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 11.0,
+      "unit_price": 147.04,
+      "amount": 1617.44
+    },
+    {
+      "description": "Cloud storage plan",
+      "quantity": 1.0,
+      "unit_price": 159.38,
+      "amount": 159.38
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -2.22,
+      "blur": 0,
+      "noise": 12,
+      "scale": 0.85,
+      "jpeg": 95
+    }
+  }
+}

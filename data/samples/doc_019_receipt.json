@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2024-3439",
+  "date": "2023-04-15",
+  "vendor": "Summit Office Products",
+  "currency": "USD",
+  "subtotal": 190.75,
+  "tax": 15.26,
+  "total": 206.01,
+  "line_items": [
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 5.0,
+      "unit_price": 10.25,
+      "amount": 51.25
+    },
+    {
+      "description": "LED desk lamp",
+      "quantity": 6.0,
+      "unit_price": 23.25,
+      "amount": 139.5
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": -0.63,
+      "blur": 1.0,
+      "noise": 0,
+      "scale": 0.55,
+      "jpeg": 45
+    }
+  }
+}

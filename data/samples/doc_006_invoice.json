@@ -1,0 +1,39 @@
+{
+  "invoice_number": "INV117119",
+  "date": "2023-03-24",
+  "vendor": "Summit Office Products",
+  "currency": "USD",
+  "subtotal": 2254.51,
+  "tax": 180.36,
+  "total": 2434.87,
+  "line_items": [
+    {
+      "description": "Hand soap 5L",
+      "quantity": 4.0,
+      "unit_price": 13.66,
+      "amount": 54.64
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 1.0,
+      "unit_price": 20.07,
+      "amount": 20.07
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 12.0,
+      "unit_price": 181.65,
+      "amount": 2179.8
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": 0.62,
+      "blur": 1.5,
+      "noise": 0,
+      "scale": 0.55,
+      "jpeg": 45
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "invoice_number": "SI-2023-8833",
+  "date": "2023-01-31",
+  "vendor": "Northwind Traders",
+  "currency": "GBP",
+  "subtotal": 1198.84,
+  "tax": 239.77,
+  "total": 1438.61,
+  "line_items": [
+    {
+      "description": "Cleaning service",
+      "quantity": 3.0,
+      "unit_price": 8.25,
+      "amount": 24.75
+    },
+    {
+      "description": "Safety gloves pair",
+      "quantity": 9.0,
+      "unit_price": 13.43,
+      "amount": 120.87
+    },
+    {
+      "description": "A4 paper ream",
+      "quantity": 7.0,
+      "unit_price": 83.39,
+      "amount": 583.73
+    },
+    {
+      "description": "Notebook pack of 5",
+      "quantity": 7.0,
+      "unit_price": 67.07,
+      "amount": 469.49
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": 1.4,
+      "blur": 0,
+      "noise": 6,
+      "scale": 0.55,
+      "jpeg": 95
+    }
+  }
+}

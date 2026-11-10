@@ -1,0 +1,45 @@
+{
+  "invoice_number": "899909",
+  "date": "2024-03-18",
+  "vendor": "Acme Industrial Supply",
+  "currency": "USD",
+  "subtotal": 2995.07,
+  "tax": 299.51,
+  "total": 3294.58,
+  "line_items": [
+    {
+      "description": "Label stickers roll",
+      "quantity": 7.0,
+      "unit_price": 10.5,
+      "amount": 73.5
+    },
+    {
+      "description": "Hex bolt M8 box",
+      "quantity": 7.0,
+      "unit_price": 367.21,
+      "amount": 2570.47
+    },
+    {
+      "description": "Copper pipe 15mm",
+      "quantity": 5.0,
+      "unit_price": 15.0,
+      "amount": 75.0
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 2.0,
+      "unit_price": 138.05,
+      "amount": 276.1
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -0.05,
+      "blur": 0,
+      "noise": 22,
+      "scale": 0.55,
+      "jpeg": 70
+    }
+  }
+}

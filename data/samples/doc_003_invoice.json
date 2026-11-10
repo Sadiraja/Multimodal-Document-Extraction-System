@@ -1,0 +1,45 @@
+{
+  "invoice_number": "INV168647",
+  "date": "2023-03-26",
+  "vendor": "Summit Office Products",
+  "currency": "USD",
+  "subtotal": 1415.87,
+  "tax": 106.19,
+  "total": 1522.06,
+  "line_items": [
+    {
+      "description": "A4 paper ream",
+      "quantity": 7.0,
+      "unit_price": 23.05,
+      "amount": 161.35
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 8.0,
+      "unit_price": 10.94,
+      "amount": 87.52
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 7.0,
+      "unit_price": 151.68,
+      "amount": 1061.76
+    },
+    {
+      "description": "Hand soap 5L",
+      "quantity": 6.0,
+      "unit_price": 17.54,
+      "amount": 105.24
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -1.09,
+      "blur": 0,
+      "noise": 22,
+      "scale": 0.7,
+      "jpeg": 45
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "invoice_number": "R946304",
+  "date": "2024-05-05",
+  "vendor": "Silverline Travel",
+  "currency": "USD",
+  "subtotal": 4936.98,
+  "tax": 370.27,
+  "total": 5307.25,
+  "line_items": [
+    {
+      "description": "Cleaning service",
+      "quantity": 3.0,
+      "unit_price": 435.3,
+      "amount": 1305.9
+    },
+    {
+      "description": "Wireless mouse",
+      "quantity": 7.0,
+      "unit_price": 350.34,
+      "amount": 2452.38
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 5.0,
+      "unit_price": 235.74,
+      "amount": 1178.7
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -2.42,
+      "blur": 0.6,
+      "noise": 22,
+      "scale": 1.0,
+      "jpeg": 70
+    }
+  }
+}

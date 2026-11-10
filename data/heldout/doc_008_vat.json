@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV-2024-8145",
+  "date": "2023-12-15",
+  "vendor": "Greenleaf Organics",
+  "currency": "GBP",
+  "subtotal": 308.2,
+  "tax": 61.64,
+  "total": 369.84,
+  "line_items": [
+    {
+      "description": "Ceramic mug",
+      "quantity": 9.0,
+      "unit_price": 16.7,
+      "amount": 150.3
+    },
+    {
+      "description": "Data backup fee",
+      "quantity": 10.0,
+      "unit_price": 15.79,
+      "amount": 157.9
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": -1.94,
+      "blur": 1.0,
+      "noise": 0,
+      "scale": 0.85,
+      "jpeg": 70
+    }
+  }
+}

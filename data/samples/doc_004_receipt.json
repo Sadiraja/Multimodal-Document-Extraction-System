@@ -1,0 +1,33 @@
+{
+  "invoice_number": "INV472030",
+  "date": "2023-03-10",
+  "vendor": "Sunrise Bakery",
+  "currency": "USD",
+  "subtotal": 2266.34,
+  "tax": 169.98,
+  "total": 2436.32,
+  "line_items": [
+    {
+      "description": "Wireless mouse",
+      "quantity": 11.0,
+      "unit_price": 203.53,
+      "amount": 2238.83
+    },
+    {
+      "description": "Data backup fee",
+      "quantity": 7.0,
+      "unit_price": 3.93,
+      "amount": 27.51
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 0.33,
+      "blur": 1.5,
+      "noise": 0,
+      "scale": 0.7,
+      "jpeg": 45
+    }
+  }
+}

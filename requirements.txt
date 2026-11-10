@@ -1,0 +1,7 @@
+pillow>=10.0
+numpy>=1.26
+opencv-python-headless>=4.8
+pytesseract>=0.3.10
+pydantic>=2.5
+anthropic>=0.40   # only needed for --mode llm / hybrid
+pytest>=8.0

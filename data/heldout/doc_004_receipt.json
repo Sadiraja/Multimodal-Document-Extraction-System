@@ -1,0 +1,39 @@
+{
+  "invoice_number": "738065",
+  "date": "2024-11-14",
+  "vendor": "Maple Street Printing",
+  "currency": "USD",
+  "subtotal": 3553.2,
+  "tax": 177.66,
+  "total": 3730.86,
+  "line_items": [
+    {
+      "description": "Cleaning service",
+      "quantity": 7.0,
+      "unit_price": 24.25,
+      "amount": 169.75
+    },
+    {
+      "description": "Safety gloves pair",
+      "quantity": 5.0,
+      "unit_price": 333.65,
+      "amount": 1668.25
+    },
+    {
+      "description": "LED desk lamp",
+      "quantity": 4.0,
+      "unit_price": 428.8,
+      "amount": 1715.2
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 1.22,
+      "blur": 0,
+      "noise": 22,
+      "scale": 0.7,
+      "jpeg": 45
+    }
+  }
+}

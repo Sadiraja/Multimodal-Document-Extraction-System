@@ -1,0 +1,45 @@
+{
+  "invoice_number": "SI-2023-6538",
+  "date": "2023-08-21",
+  "vendor": "Harvest Moon Farms",
+  "currency": "GBP",
+  "subtotal": 1305.33,
+  "tax": 261.07,
+  "total": 1566.4,
+  "line_items": [
+    {
+      "description": "Wireless mouse",
+      "quantity": 4.0,
+      "unit_price": 12.67,
+      "amount": 50.68
+    },
+    {
+      "description": "Cleaning service",
+      "quantity": 1.0,
+      "unit_price": 345.62,
+      "amount": 345.62
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 1.0,
+      "unit_price": 251.73,
+      "amount": 251.73
+    },
+    {
+      "description": "Monitor stand",
+      "quantity": 2.0,
+      "unit_price": 328.65,
+      "amount": 657.3
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": -2.47,
+      "blur": 0.6,
+      "noise": 0,
+      "scale": 0.85,
+      "jpeg": 70
+    }
+  }
+}

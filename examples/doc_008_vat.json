@@ -1,0 +1,65 @@
+{
+  "invoice_number": {
+    "value": "281963",
+    "confidence": 0.95,
+    "needs_review": false,
+    "reasons": []
+  },
+  "date": {
+    "value": "2024-08-23",
+    "confidence": 0.957,
+    "needs_review": false,
+    "reasons": []
+  },
+  "vendor": {
+    "value": "Bluebird Stationery",
+    "confidence": 0.955,
+    "needs_review": false,
+    "reasons": []
+  },
+  "currency": {
+    "value": "GBP",
+    "confidence": 0.9,
+    "needs_review": false,
+    "reasons": []
+  },
+  "subtotal": {
+    "value": 42.49,
+    "confidence": 0.955,
+    "needs_review": false,
+    "reasons": []
+  },
+  "tax": {
+    "value": 8.5,
+    "confidence": 0.955,
+    "needs_review": false,
+    "reasons": []
+  },
+  "total": {
+    "value": 50.99,
+    "confidence": 0.955,
+    "needs_review": false,
+    "reasons": []
+  },
+  "line_items": [
+    {
+      "description": "Sourdough loaf",
+      "quantity": 3.0,
+      "unit_price": 11.69,
+      "amount": 35.07,
+      "confidence": 0.952
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 1.0,
+      "unit_price": 7.42,
+      "amount": 7.42,
+      "confidence": 0.92
+    }
+  ],
+  "line_items_needs_review": false,
+  "line_items_reasons": [],
+  "needs_review": false,
+  "source_file": "doc_008_vat.jpg",
+  "extractor": "rules"
+}

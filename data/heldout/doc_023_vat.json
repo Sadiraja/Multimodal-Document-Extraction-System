@@ -1,0 +1,45 @@
+{
+  "invoice_number": "INV534432",
+  "date": "2024-04-23",
+  "vendor": "Pinecrest Hardware",
+  "currency": "GBP",
+  "subtotal": 3809.86,
+  "tax": 761.97,
+  "total": 4571.83,
+  "line_items": [
+    {
+      "description": "Hand soap 5L",
+      "quantity": 6.0,
+      "unit_price": 27.75,
+      "amount": 166.5
+    },
+    {
+      "description": "Shipping surcharge",
+      "quantity": 8.0,
+      "unit_price": 406.91,
+      "amount": 3255.28
+    },
+    {
+      "description": "Consulting hour",
+      "quantity": 12.0,
+      "unit_price": 16.34,
+      "amount": 196.08
+    },
+    {
+      "description": "Cleaning service",
+      "quantity": 12.0,
+      "unit_price": 16.0,
+      "amount": 192.0
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": 0.16,
+      "blur": 0.6,
+      "noise": 6,
+      "scale": 1.0,
+      "jpeg": 95
+    }
+  }
+}

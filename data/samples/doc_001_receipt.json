@@ -1,0 +1,33 @@
+{
+  "invoice_number": "324328",
+  "date": "2024-04-09",
+  "vendor": "Summit Office Products",
+  "currency": "USD",
+  "subtotal": 4778.34,
+  "tax": 955.67,
+  "total": 5734.01,
+  "line_items": [
+    {
+      "description": "Organic apples 2kg",
+      "quantity": 2.0,
+      "unit_price": 306.65,
+      "amount": 613.3
+    },
+    {
+      "description": "Whiteboard markers",
+      "quantity": 11.0,
+      "unit_price": 378.64,
+      "amount": 4165.04
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": 0.13,
+      "blur": 0.6,
+      "noise": 22,
+      "scale": 0.7,
+      "jpeg": 45
+    }
+  }
+}

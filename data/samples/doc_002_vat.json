@@ -1,0 +1,45 @@
+{
+  "invoice_number": "R724328",
+  "date": "2024-10-24",
+  "vendor": "Ironclad Tools Ltd",
+  "currency": "GBP",
+  "subtotal": 6381.62,
+  "tax": 1276.32,
+  "total": 7657.94,
+  "line_items": [
+    {
+      "description": "A4 paper ream",
+      "quantity": 11.0,
+      "unit_price": 278.92,
+      "amount": 3068.12
+    },
+    {
+      "description": "Cloud storage plan",
+      "quantity": 6.0,
+      "unit_price": 295.44,
+      "amount": 1772.64
+    },
+    {
+      "description": "Safety gloves pair",
+      "quantity": 2.0,
+      "unit_price": 454.83,
+      "amount": 909.66
+    },
+    {
+      "description": "Ceramic mug",
+      "quantity": 12.0,
+      "unit_price": 52.6,
+      "amount": 631.2
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": -0.76,
+      "blur": 1.0,
+      "noise": 12,
+      "scale": 0.85,
+      "jpeg": 45
+    }
+  }
+}

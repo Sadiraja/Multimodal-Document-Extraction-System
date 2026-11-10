@@ -1,0 +1,57 @@
+{
+  "invoice_number": "239222",
+  "date": "2023-04-19",
+  "vendor": "Summit Office Products",
+  "currency": "USD",
+  "subtotal": 5153.01,
+  "tax": 412.24,
+  "total": 5565.25,
+  "line_items": [
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 3.0,
+      "unit_price": 17.44,
+      "amount": 52.32
+    },
+    {
+      "description": "Cloud storage plan",
+      "quantity": 10.0,
+      "unit_price": 178.53,
+      "amount": 1785.3
+    },
+    {
+      "description": "Espresso beans 1kg",
+      "quantity": 7.0,
+      "unit_price": 394.63,
+      "amount": 2762.41
+    },
+    {
+      "description": "Cleaning service",
+      "quantity": 7.0,
+      "unit_price": 20.62,
+      "amount": 144.34
+    },
+    {
+      "description": "Printer toner black",
+      "quantity": 1.0,
+      "unit_price": 353.36,
+      "amount": 353.36
+    },
+    {
+      "description": "Shipping surcharge",
+      "quantity": 8.0,
+      "unit_price": 6.91,
+      "amount": 55.28
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -0.39,
+      "blur": 0.6,
+      "noise": 0,
+      "scale": 0.7,
+      "jpeg": 45
+    }
+  }
+}

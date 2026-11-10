@@ -1,0 +1,51 @@
+{
+  "invoice_number": "SI-2024-2721",
+  "date": "2024-08-29",
+  "vendor": "Greenleaf Organics",
+  "currency": "USD",
+  "subtotal": 9203.89,
+  "tax": 736.31,
+  "total": 9940.2,
+  "line_items": [
+    {
+      "description": "Ceramic mug",
+      "quantity": 9.0,
+      "unit_price": 190.13,
+      "amount": 1711.17
+    },
+    {
+      "description": "USB-C cable 2m",
+      "quantity": 12.0,
+      "unit_price": 338.38,
+      "amount": 4060.56
+    },
+    {
+      "description": "Organic apples 2kg",
+      "quantity": 1.0,
+      "unit_price": 17.2,
+      "amount": 17.2
+    },
+    {
+      "description": "Cat6 patch cable",
+      "quantity": 11.0,
+      "unit_price": 5.2,
+      "amount": 57.2
+    },
+    {
+      "description": "Notebook pack of 5",
+      "quantity": 8.0,
+      "unit_price": 419.72,
+      "amount": 3357.76
+    }
+  ],
+  "_meta": {
+    "layout": "receipt",
+    "degradation": {
+      "rotation": -2.01,
+      "blur": 0,
+      "noise": 12,
+      "scale": 0.55,
+      "jpeg": 70
+    }
+  }
+}

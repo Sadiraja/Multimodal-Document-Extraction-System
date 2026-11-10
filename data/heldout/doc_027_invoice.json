@@ -1,0 +1,33 @@
+{
+  "invoice_number": "R878088",
+  "date": "2023-06-21",
+  "vendor": "Summit Office Products",
+  "currency": "USD",
+  "subtotal": 3666.36,
+  "tax": 366.64,
+  "total": 4033.0,
+  "line_items": [
+    {
+      "description": "Consulting hour",
+      "quantity": 6.0,
+      "unit_price": 179.29,
+      "amount": 1075.74
+    },
+    {
+      "description": "Shipping surcharge",
+      "quantity": 6.0,
+      "unit_price": 431.77,
+      "amount": 2590.62
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -0.09,
+      "blur": 0,
+      "noise": 6,
+      "scale": 1.0,
+      "jpeg": 70
+    }
+  }
+}

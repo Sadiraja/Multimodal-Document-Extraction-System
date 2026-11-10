@@ -1,0 +1,33 @@
+{
+  "invoice_number": "281963",
+  "date": "2024-08-23",
+  "vendor": "Bluebird Stationery",
+  "currency": "GBP",
+  "subtotal": 42.49,
+  "tax": 8.5,
+  "total": 50.99,
+  "line_items": [
+    {
+      "description": "Sourdough loaf",
+      "quantity": 3.0,
+      "unit_price": 11.69,
+      "amount": 35.07
+    },
+    {
+      "description": "Steel shelf bracket",
+      "quantity": 1.0,
+      "unit_price": 7.42,
+      "amount": 7.42
+    }
+  ],
+  "_meta": {
+    "layout": "vat",
+    "degradation": {
+      "rotation": 2.05,
+      "blur": 0.6,
+      "noise": 22,
+      "scale": 0.55,
+      "jpeg": 45
+    }
+  }
+}

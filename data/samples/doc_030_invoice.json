@@ -1,0 +1,33 @@
+{
+  "invoice_number": "SI-2024-1298",
+  "date": "2024-01-01",
+  "vendor": "Cobalt Cloud Services",
+  "currency": "USD",
+  "subtotal": 6525.85,
+  "tax": 1305.17,
+  "total": 7831.02,
+  "line_items": [
+    {
+      "description": "Monitor stand",
+      "quantity": 7.0,
+      "unit_price": 211.45,
+      "amount": 1480.15
+    },
+    {
+      "description": "Consulting hour",
+      "quantity": 11.0,
+      "unit_price": 458.7,
+      "amount": 5045.7
+    }
+  ],
+  "_meta": {
+    "layout": "invoice",
+    "degradation": {
+      "rotation": -0.33,
+      "blur": 0,
+      "noise": 22,
+      "scale": 1.0,
+      "jpeg": 95
+    }
+  }
+}
